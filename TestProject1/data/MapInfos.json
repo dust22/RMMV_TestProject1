@@ -1,6 +1,6 @@
 [
 null,
+{"id":1,"expanded":true,"name":"Test Map 1","order":1,"parentId":0,"scrollX":788,"scrollY":481},
 null,
-{"id":2,"expanded":true,"name":"Test Map 1","order":1,"parentId":0,"scrollX":788,"scrollY":481},
-{"id":3,"expanded":false,"name":"TestMap1_BattleSim","order":2,"parentId":2,"scrollX":788,"scrollY":481}
+{"id":3,"expanded":false,"name":"TestMap1_BattleSim","order":2,"parentId":1,"scrollX":788,"scrollY":481}
 ]
