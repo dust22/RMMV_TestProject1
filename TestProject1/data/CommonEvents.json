@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":111,"indent":0,"parameters":[4,1,6,11]},{"code":121,"indent":1,"parameters":[1,1,0]},{"code":322,"indent":1,"parameters":[1,"Nature",0,"Nature",0,"Actor2_6"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"dogTransOn","switchId":1,"trigger":1},
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[4,1,6,11]},{"code":121,"indent":1,"parameters":[1,1,0]},{"code":322,"indent":1,"parameters":[1,"Nature",0,"Nature",0,"Actor2_6"]},{"code":318,"indent":1,"parameters":[0,1,1,11]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"dogTransOn","switchId":1,"trigger":1},
 {"id":2,"list":[{"code":111,"indent":0,"parameters":[4,1,6,11]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":322,"indent":1,"parameters":[1,"Actor1",1,"Actor3",3,"Actor1_2"]},{"code":121,"indent":1,"parameters":[1,1,1]},{"code":318,"indent":1,"parameters":[0,1,1,12]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"dogTransOff","switchId":1,"trigger":1},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
