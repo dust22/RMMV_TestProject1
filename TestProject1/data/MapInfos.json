@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Test Map 1","order":1,"parentId":0,"scrollX":559.5,"scrollY":476.5},
+{"id":1,"expanded":true,"name":"Test Map 1","order":1,"parentId":0,"scrollX":788,"scrollY":481},
 {"id":2,"expanded":false,"name":"BattleMap1","order":3,"parentId":3,"scrollX":559.5,"scrollY":476.5},
 {"id":3,"expanded":true,"name":"TestMap1_BattleSim","order":2,"parentId":1,"scrollX":788.5,"scrollY":481.5},
 {"id":4,"expanded":true,"name":"DebugShop","order":5,"parentId":1,"scrollX":559.5,"scrollY":476.5},
 {"id":5,"expanded":false,"name":"NonRandomEncounterTest","order":4,"parentId":3,"scrollX":425.2,"scrollY":381.2},
-{"id":6,"expanded":false,"name":"EventTriggerRoom","order":6,"parentId":4,"scrollX":526.5,"scrollY":476.5}
+{"id":6,"expanded":false,"name":"EventTriggerRoom","order":6,"parentId":4,"scrollX":788,"scrollY":481}
 ]
