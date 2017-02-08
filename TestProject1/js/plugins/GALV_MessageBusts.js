@@ -389,11 +389,11 @@ Sprite_GalvBust.prototype.controlBitmap = function() {
 	case 2:
 	//bottom
 		if (Galv.MB.prio == 1) {
-			this.y = Galv.MB.msgWindow.height - this.bitmap.height;
+			this.y = Galv.MB.msgWindow.height - this.bitmap.height + 150;
 		} else if (Galv.MB.pos === 1) {
-			this.y = this.baseY();
+			this.y = this.baseY() + 150;
 		} else {
-			this.y = this.baseY() - Galv.MB.msgWindow.height;
+			this.y = this.baseY() - Galv.MB.msgWindow.height + 150;
 		};
 		break;
 	};
@@ -401,16 +401,16 @@ Sprite_GalvBust.prototype.controlBitmap = function() {
 	if ($gameSystem.bustPos == 1) {
 		// if on the right
 		if (Galv.MB.prio == 1) {
-			this.x = Galv.MB.msgWindow.width - this.bitmap.width + offset;
+			this.x = Galv.MB.msgWindow.width - this.bitmap.width + offset + 150;
 		} else {
-			this.x = Galv.MB.msgWindow.x + Galv.MB.msgWindow.width - this.bitmap.width + offset;
+			this.x = Galv.MB.msgWindow.x + Galv.MB.msgWindow.width - this.bitmap.width + offset + 150;
 		};
 	} else {
 		// else on the left
 		if (Galv.MB.prio == 1) {
-			this.x = 0 + offset;
+			this.x = -250 + offset;
 		} else {
-			this.x = Galv.MB.msgWindow.x + offset;
+			this.x = -250 + Galv.MB.msgWindow.x + offset;
 		};
 	};
 };
