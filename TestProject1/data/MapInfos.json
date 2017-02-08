@@ -8,12 +8,12 @@ null,
 {"id":6,"expanded":false,"name":"EventTriggerRoom","order":6,"parentId":4,"scrollX":563,"scrollY":476.5},
 {"id":7,"expanded":true,"name":"miniCampaign_APT","order":14,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":8,"expanded":false,"name":"CutsceneTest","order":7,"parentId":1,"scrollX":563,"scrollY":476.5},
-{"id":9,"expanded":true,"name":"testMapRemake","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":false,"name":"testMapRemake","order":8,"parentId":0,"scrollX":440.6666666666667,"scrollY":312.3333333333333},
 {"id":10,"expanded":true,"name":"testMap_Battle","order":9,"parentId":9,"scrollX":440.6666666666667,"scrollY":312.3333333333333},
 {"id":11,"expanded":false,"name":"testMap_RandomEncounters","order":10,"parentId":10,"scrollX":500.44444444444446,"scrollY":423.55555555555554},
 {"id":12,"expanded":false,"name":"testMap_NonRandomBattles","order":11,"parentId":10,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":false,"name":"testMap_Shop","order":12,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":14,"expanded":false,"name":"testMap_EventTriggers","order":13,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":15,"expanded":false,"name":"mc_Outside1","order":15,"parentId":7,"scrollX":832,"scrollY":640},
-{"id":16,"expanded":false,"name":"mc_Outside2","order":16,"parentId":7,"scrollX":832,"scrollY":640}
+{"id":16,"expanded":false,"name":"mc_Outside2","order":16,"parentId":7,"scrollX":409.3333333333333,"scrollY":312.3333333333333}
 ]
