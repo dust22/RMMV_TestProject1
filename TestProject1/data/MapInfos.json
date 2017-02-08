@@ -9,6 +9,8 @@ null,
 {"id":7,"expanded":false,"name":"tilesetTest","order":8,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":8,"expanded":false,"name":"CutsceneTest","order":7,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":9,"expanded":true,"name":"testMapRemake","order":9,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":10,"expanded":true,"name":"testMap_Battle","order":10,"parentId":9,"scrollX":500.44444444444446,"scrollY":423.55555555555554},
-{"id":11,"expanded":false,"name":"testMap_RandomEncounters","order":11,"parentId":10,"scrollX":0,"scrollY":0}
+{"id":10,"expanded":false,"name":"testMap_Battle","order":10,"parentId":9,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"testMap_RandomEncounters","order":11,"parentId":10,"scrollX":500.44444444444446,"scrollY":423.55555555555554},
+{"id":12,"expanded":false,"name":"testMap_NonRandomBattles","order":12,"parentId":10,"scrollX":832,"scrollY":640},
+{"id":13,"expanded":false,"name":"testMap_Shop","order":13,"parentId":9,"scrollX":832,"scrollY":640}
 ]
