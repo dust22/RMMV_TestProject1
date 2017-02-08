@@ -13,6 +13,6 @@ null,
 {"id":11,"expanded":false,"name":"testMap_RandomEncounters","order":10,"parentId":10,"scrollX":500.44444444444446,"scrollY":423.55555555555554},
 {"id":12,"expanded":false,"name":"testMap_NonRandomBattles","order":11,"parentId":10,"scrollX":832,"scrollY":640},
 {"id":13,"expanded":false,"name":"testMap_Shop","order":12,"parentId":9,"scrollX":832,"scrollY":640},
-{"id":14,"expanded":false,"name":"testMap_EventTriggers","order":13,"parentId":9,"scrollX":563,"scrollY":476.5},
+{"id":14,"expanded":false,"name":"testMap_EventTriggers","order":13,"parentId":9,"scrollX":832,"scrollY":640},
 {"id":15,"expanded":false,"name":"mc_Outside1","order":15,"parentId":7,"scrollX":563,"scrollY":476.5}
 ]
